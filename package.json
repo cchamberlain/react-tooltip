@@ -1,5 +1,5 @@
 {
-  "name": "react-tooltip",
+  "name": "react-tooltip-15",
   "version": "1.1.4",
   "description": "react tooltip component",
   "main": "index.js",
@@ -51,8 +51,8 @@
     "react-dom": "global:ReactDOM"
   },
   "peerDependencies": {
-    "react": ">=0.14.0",
-    "react-dom": "0.14.*"
+    "react": "*",
+    "react-dom": "*"
   },
   "dependencies": {
     "classnames": "^1.2.0"
